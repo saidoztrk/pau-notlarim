@@ -1,0 +1,34 @@
+1) Cross validate 10 fold kullanan model için:
+-Correctly Classified Instances oranını: 73.802 %
+-Doğru tahmin edilmiş Dropout sayısı (True Positive): 1067
+-Dropout olarak tahmin edilmiş ancak graduate olan yanlış tahmin sayısı: 121
+-Dropout için tahmin kesinliği (precision) değeri: 0.758
+
+
+2) Cross validate 2 fold kullanan model için:
+-Correctly Classified Instances oranını: 70.9991 %
+-Doğru tahmin edilmiş Dropout sayısı (True Positive): 1038
+-Dropout olarak tahmin edilmiş ancak graduate olan yanlış tahmin sayısı: 157
+-Dropout için tahmin kesinliği (precision) değeri: 0.730
+
+
+3) Use training set kullanan model için:
+-Correctly Classified Instances oranını: 91.3201 %
+-Doğru tahmin edilmiş Dropout sayısı (True Positive): 1290
+-Dropout olarak tahmin edilmiş ancak graduate olan yanlış tahmin sayısı: 32
+-Dropout için tahmin kesinliği (precision) değeri: 0.908
+
+
+4) Percentage split %80 kullanan model için:
+-Correctly Classified Instances oranını: 74.2373 %
+-Doğru tahmin edilmiş Dropout sayısı (True Positive): 208
+-Dropout olarak tahmin edilmiş ancak graduate olan yanlış tahmin sayısı: 24
+-Dropout için tahmin kesinliği (precision) değeri: 0.770
+
+
+
+**Sonraki tahminlemelerde kullanacağım model 3. model olacak (Use training set kullanan model), çünkü:
+-Başarı oranı en yüksek olan (91.3201 %)
+-En yüksek Average True Positive oranına sahip olan (0.913)
+-En düşük Average False Positive oranına sahip olan (0.062)
+-En yüksek Average Precision oranına sahip olan (0.913)
