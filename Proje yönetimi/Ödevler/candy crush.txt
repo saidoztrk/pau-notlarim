@@ -1,0 +1,15 @@
+Güçlendiriciler:
+bonuslar bulunur.
+Örneğin, renk patlatıcılar, bombalar, elmas jöleleri gibi.
+
+Skor Tablosu:
+kullanıcının mevcut skor
+
+oyun tahtası:
+renkleri ve şekilleri değiştirme imkanı sağlayan bir tablo
+
+hedef simgesi:
+bu seviyedeki hedefe ne kadar yakın olduğumuzu gösteren bir sayacı/bar
+
+yıldız sayısı:
+mevcut seviyede yapılan başarı ölçeyip yıldız verilir. Daha sonra bu yıldız başka bir item ile değiştirilebilir
