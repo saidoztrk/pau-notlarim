@@ -1,0 +1,24 @@
+Malek Alismail 20253833
+11/10/2023
+
+Soru:
+İlgi alanınz ile ilgili bir sitenin hacklenmesi (saldır) nasıl oldu? Kullanılan teknik nedir? Hedefe ulaştılar mı? Maddi değer oldu mu / Etkisi ne?
+
+Kim saldırdı: Joseph James O'Connor
+Kime saldırdı: High-profile verified Twitter accounts
+Yöntem: Social Engineering
+
+Olay:
+On July 15, 2020,  130 high-profile Twitter accounts were reportedly compromised by outside parties 
+to promote a bitcoin scam. Twitter and other media sources confirmed that the perpetrators had gained 
+access to Twitter's administrative tools so that they could alter the accounts themselves and post the 
+tweets directly. They appeared to have used social engineering to gain access to the tools via Twitter employees. 
+Three individuals were arrested by authorities on July 31, 2020, and charged with wire fraud, 
+money laundering, identity theft, and unauthorized computer access related to the scam.
+
+The scam tweets asked individuals to send bitcoin currency to a specific cryptocurrency wallet, 
+promising the Twitter user that money sent would be doubled and returned as a charitable gesture. 
+Within minutes from the initial tweets, more than 320 transactions had already taken place on 
+one of the wallet addresses, and bitcoins to a value of more than US$110,000 had been deposited 
+in one account before the scam messages were removed by Twitter. In addition, full message 
+history data from eight non-verified accounts were also acquired.

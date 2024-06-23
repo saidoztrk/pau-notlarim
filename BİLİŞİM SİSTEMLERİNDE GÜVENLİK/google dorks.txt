@@ -1,0 +1,18 @@
+-extetnsionı doc olan bu sitede dosyaları göster:
+site:milliyet.com.tr ext:doc
+
+-url'inde admin login php olan siteleri bana göster:
+inurl:admin-login.php
+
+-google hacking database
+
+-id'si 1 olan gel demek (bir DB sorgusu çalışıyor):
+inurl:php?id=1
+
+-pentest-tools.com :
+#google-hacking -> yatasbedding.com.tr
+#Domain Finder  -> yatas.com.tr
+#TCP Port Scan -> www.iddaa.com.tr
+#Website Scanner -> https://www.yatasbedding.com.tr/
+
+-https://searchdns.netcraft.com/ -> udacity.com
